@@ -1,0 +1,93 @@
+.container{
+   height:700px;
+   width:700px;
+   background-color: grey;
+   position: relative;
+   left: 300px;
+   padding:2%;
+}
+div{
+   margin: 1%;
+}
+.box1{
+   height:100px;
+   width:270px;
+   background-color: red;
+   float:left;
+}
+.box2{
+   height:100px;
+   width:400px;
+   background-color: blue;
+   float: left;
+   
+}
+.box3{
+   height:120px;
+   width:690px;
+   background-color: rgba(169, 169, 21, 0.841);
+   float:left;
+
+}
+.box4{
+   height:120px;
+   width:208px;
+   background-color: rgb(14, 235, 150);
+   float:left;
+}
+.box5{
+   height:120px;
+   width:200px;
+   background-color: purple;
+   float:left;
+}
+.box6{
+   height:120px;
+   width:250px;
+   background-color: rgba(182, 57, 182, 0.781);
+   float:left;
+}
+.box7{
+   height:100px;
+   width:330px;
+   background-color: rgba(255, 166, 0, 0.953);
+   float:left;
+}
+.box8{
+   height:100px;
+   width:335px;
+   background-color: yellow;
+   float:left;
+}
+.box9{
+   height:100px;
+   width:173px;
+   background-color:rgb(0,255,0);
+   float:left;
+}
+.box10{
+   height:100px;
+   width:155px;
+   background-color:rgb(0, 213, 255);
+   float:left;
+}
+.box11{
+   height:100px;
+   width:155px;
+   background-color:brown;
+   float:left;
+}
+.box12{
+   height:100px;
+   width:155px;
+   background-color:blue;
+   float:left;
+}
+.box13{
+   height:75px;
+   width:690px;
+   background-color:rgba(60, 26, 26, 0.851);
+   float:left;
+}
+
+

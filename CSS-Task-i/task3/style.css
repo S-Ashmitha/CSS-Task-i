@@ -1,0 +1,26 @@
+#image{
+    position:absolute;
+    right: 8px;
+    width: 200px;
+    height: 200px;
+}
+.box{
+    text-align: left;
+    height: 500px;
+    width: 650px;
+    border: 1px solid rgb(139, 136, 136);
+background-color: rgba(160, 156, 156, 0.789);
+position: relative;
+padding: 20px;
+margin:auto;
+
+
+}
+#para1{
+    text-align: left;
+    width:450px;
+}
+#para2{
+    text-align: left;
+    width: 655px;
+}

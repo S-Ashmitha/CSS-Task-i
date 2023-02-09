@@ -1,0 +1,20 @@
+
+.line{
+    width: 500px;
+height: 20px;
+    background-color: rgba(0, 128, 0, 0.885);
+}
+h1{
+    color:white;
+    text-align: center;
+    letter-spacing: 30px;
+}
+.box {
+    border: 2px solid black;
+    width: 500px;
+    margin: 20px auto;
+    padding: 0 7px;
+  }
+  html{
+    background-color: black;
+  }
